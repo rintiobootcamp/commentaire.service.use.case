@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bootcamp</groupId>
-  <artifactId>projet.service.use.case</artifactId>
+  <artifactId>commentaire.service.use.case</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>projet.service.use.case</name>
+  <name>commentaire.service.use.case</name>
   <url>http://maven.apache.org</url>
 
   <properties>
